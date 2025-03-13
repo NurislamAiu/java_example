@@ -115,6 +115,10 @@ public class FirebaseCRUD {
             System.out.println("3. Обновить пользователя");
             System.out.println("4. Удалить пользователя");
             System.out.println("0. Выход");
+            System.out.println("0. Выход");
+            System.out.println("0. Выход");
+            System.out.println("0. Выход");
+            System.out.println("0. Выход");
             System.out.print("Введите номер операции: ");
 
             int choice = scanner.nextInt();
