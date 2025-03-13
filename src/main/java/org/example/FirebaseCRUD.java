@@ -21,6 +21,11 @@ import java.util.Scanner;
 public class FirebaseCRUD {
 
     public static Firestore initializeFirebase() {
+        
+        Firestore db = null;
+        Firestore db = null;
+        Firestore db = null;
+        Firestore db = null;
         Firestore db = null;
         try {
             FileInputStream serviceAccount = new FileInputStream(
