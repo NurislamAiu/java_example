@@ -14,12 +14,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
-        <!-- Зависимость Firebase Admin SDK -->
-        <dependency>
-            <groupId>com.google.firebase</groupId>
-            <artifactId>firebase-admin</artifactId>
-            <version>9.1.1</version>
-        </dependency>
 
         <dependency>
             <groupId>com.google.firebase</groupId>
@@ -27,7 +21,6 @@
             <version>9.1.1</version>
         </dependency>
 
-        <!-- Другие зависимости проекта -->
     </dependencies>
 
 
